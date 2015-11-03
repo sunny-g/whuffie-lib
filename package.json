@@ -1,0 +1,30 @@
+{
+  "name": "whuffie-lib",
+  "version": "0.0.1",
+  "description": "Library for interacting with Whuffie servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunny-g/whuffie-lib.git"
+  },
+  "keywords": [
+    "whuffie",
+    "meteor",
+    "ddp",
+    "stellar",
+    "ipfs",
+    "json-ld"
+  ],
+  "author": "Sunny G <sunny.gonna@gmail.com> (http://blog.sunnyg.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunny-g/whuffie-lib/issues"
+  },
+  "homepage": "https://github.com/sunny-g/whuffie-lib#readme",
+  "dependencies": {
+    "@sunnyg/ddp-client": "^0.1.3"
+  }
+}
